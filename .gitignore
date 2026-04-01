@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.pkl
+nohup.out
+output.log
+dataset.csv
+.DS_Store
